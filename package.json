@@ -1,0 +1,24 @@
+{
+  "private": true,
+  "scripts": {
+    "start": "rm -rf ./dist && tsc && node dist/index.js",
+    "test": "rm -rf ./dist && tsc && ava dist/test"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.4",
+    "express": "^4.16.3",
+    "lowdb": "^1.0.0",
+    "uuid": "^3.2.1"
+  },
+  "devDependencies": {
+    "ava": "^1.0.0-beta.4",
+    "supertest": "^3.1.0",
+    "@types/cors": "^2.8.4",
+    "@types/express": "^4.11.1",
+    "@types/lowdb": "^1.0.2",
+    "@types/supertest": "^2.0.4",
+    "@types/uuid": "^3.4.3",
+    "typescript": "^2.8.3"
+  }
+}
