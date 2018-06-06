@@ -25,7 +25,7 @@
     "id": "asdasd-asdasd-asdasd-dssss",
     "title": "sleep",
     "status": "active",
-    "createdAt": "1527681806503".
+    "createdAt": "1527681806503",
     "updatedAt": "1527681806503"
   }
 ]
