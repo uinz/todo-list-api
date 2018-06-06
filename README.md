@@ -1,6 +1,6 @@
 # API接口
 
-## 列表
+## LIST
 
 #### Reuqest
 
@@ -33,7 +33,7 @@
 
 ---
 
-## 添加
+## CREAT
 
 #### Reuqest
 
@@ -64,7 +64,7 @@
 
 ---
 
-## 删除
+## DELETE
 
 #### Reuqest
 
@@ -84,7 +84,7 @@
 
 ---
 
-## 修改
+## UPDATE
 
 #### Reuqest
 
